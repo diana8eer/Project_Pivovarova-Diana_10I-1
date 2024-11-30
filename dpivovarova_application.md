@@ -44,9 +44,9 @@ Gismeteo, ЯндексПогода, Погода Mail не предлагают 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ, ИНФОРМАЦИЯ О БД ]**
 
 *	Язык программирования Python
-*	 Qt designer
-*	 PostgreSQL  
-*	 Json 
+*	 Python / Qt designer - для создания интерфейса
+*	 PostgreSQL  - база данных
+*	 Json - для работы с API 
 *  PyCharm 
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
