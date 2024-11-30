@@ -45,7 +45,7 @@ Gismeteo, ЯндексПогода, Погода Mail не предлагают 
 
 *	Язык программирования Python
 *	 Qt designer
-*	 MySQL  
+*	 PostgreSQL  
 *	 Json 
 *  PyCharm 
 
